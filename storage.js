@@ -7,7 +7,7 @@
 
 module.exports = {
     "bot": {
-        "token": "insert your bot token here", // قم بإضافة التوكن الخاص في البوت هنا
+        "token": "NTM3MzUyOTEzNDE3MTQyMjcz.XQD_pA.mBoA_Ac4iGTN8FO0vkQ4QcvFEPo", // قم بإضافة التوكن الخاص في البوت هنا
         "owner": ['your id'], // قم بإضافة الآيدي الخاص بحسابك هنا لتممكن من الوصول إلى جميع الأوامر. 
         /**
          * 
